@@ -1,3 +1,17 @@
+/* Pretendard 폰트 불러오기 */
+@import './styles/fonts.css';
+
+/* Tailwind 필수 지시어 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 전역 폰트 기본 설정 */
+body {
+  font-family: 'Pretendard', sans-serif;
+}
+
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
