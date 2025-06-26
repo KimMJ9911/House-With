@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import './App.css'
-import Button from './components/button'  // Button 컴포넌트 import
+import Button from './components/Button/button'  
 
 function App() {
   const [clickCount, setClickCount] = useState(0)

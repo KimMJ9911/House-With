@@ -1,4 +1,3 @@
-// components/Button/Button.tsx
 import React from 'react';
 
 // 사이즈 스타일을 먼저 정의하고 타입을 추출
