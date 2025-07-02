@@ -1,5 +1,4 @@
 export const COLORS = {
-
   PRIMARY: '#FE8B26',
 
   SECONDARY: {
@@ -14,6 +13,7 @@ export const COLORS = {
 
   GRAYSCALE: {
     F: '#FFFFFF',
+    G1: '#F2F2F2',
     G2: '#E6E6E6',
     G3: '#CCCCCC',
     G4: '#9F9F9F',
@@ -24,5 +24,4 @@ export const COLORS = {
     G9: '#383838',
     B: '#1A1A1A',
   },
-
-}; 
+};
